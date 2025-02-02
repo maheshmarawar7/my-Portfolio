@@ -7,7 +7,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
-  background: linear-gradient(to right, rgba(237, 234, 247, 0.08), rgba(255, 204, 204, 0.08), rgba(204, 224, 255, 0.08));
+  background: #354a53;
   min-height: 100vh; /* Ensures the background covers the entire viewport height */
 }
 
